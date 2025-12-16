@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\newfolder (2)\\webapppractiece\\wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:wwwroot\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\newfolder (2)\\webapppractiece\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\newfolder (2)\\webapppractiece\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\newfolder (2)\\webapppractiece\\views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:views\\shared\\_productpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\newfolder (2)\\webapppractiece\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\newfolder (2)\\webapppractiece\\views\\shared\\_productlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:views\\shared\\_productlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|c:\\users\\user\\desktop\\newfolder (2)\\webapppractiece\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5158B62D-26C8-4052-8E72-BA2D9EAB089E}|WebAppPractiece.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ProductPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Views\\Shared\\_ProductPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ProductPartial.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Views\\Shared\\_ProductPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ProductPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T15:24:45.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ProductLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Views\\Shared\\_ProductLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ProductLayout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Views\\Shared\\_ProductLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ProductLayout.cshtml",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAAAH4BAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T15:21:09.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHIBAAAAAAAAAAAAAHkBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T15:21:01.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\wwwroot\\js\\custom.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\custom.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\wwwroot\\js\\custom.js*",
+              "RelativeToolTip": "wwwroot\\js\\custom.js*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-16T14:51:30.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:20:28.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-16T13:56:08.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewFolder (2)\\WebAppPractiece\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T14:08:19.084Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
