@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 097801cdfd2c9715fadbd1429b1ac1a700d08d64b5400c6ac981d6eede82a495
+=======
+6a1690582e1ad11c871d27ec11b7336dc181a861faa6055a791f72ed707ca330
+>>>>>>> 740f8e9 (fix: correct product class mismatch to enable proper load more pagination)

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"documents":{"C:\\Users\\user\\Desktop\\NewFolder (2)\\*":"https://raw.githubusercontent.com/dev-shaig/Admin-Panel-Slider-Details-Task/37476e48e10e8c46573250ada42721fae10d841b/*"}}
+=======
+{"documents":{"C:\\Users\\user\\Desktop\\NewFolder (2)\\*":"https://raw.githubusercontent.com/dev-shaig/Partial-View-Load-More/c6db319b7b61ddaf0470a90050842e91042e2f48/*"}}
+>>>>>>> 740f8e9 (fix: correct product class mismatch to enable proper load more pagination)

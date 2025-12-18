@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppPractiece")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37476e48e10e8c46573250ada42721fae10d841b")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6db319b7b61ddaf0470a90050842e91042e2f48")]
+>>>>>>> 740f8e9 (fix: correct product class mismatch to enable proper load more pagination)
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppPractiece")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppPractiece")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

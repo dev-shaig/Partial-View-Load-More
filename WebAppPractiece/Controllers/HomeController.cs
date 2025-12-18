@@ -42,6 +42,7 @@ namespace WebAppPractiece.Controllers
         }
 
 
+<<<<<<< HEAD
         public async Task<IActionResult> LoadMore(int skip) 
         {
  
@@ -51,9 +52,24 @@ namespace WebAppPractiece.Controllers
                 .Where(m => !m.IsDeleted)
                 .Skip(skip)
                 .Take(4)  
+=======
+        public async Task<IActionResult> LoadMore(int skip)
+        {
+            var products = await _context.Products
+                .Include(p => p.ProductImages)
+                .Include(p => p.Category)
+                .Where(p => !p.IsDeleted)
+                .OrderBy(p => p.Id) 
+                .Skip(skip)
+                .Take(4)
+>>>>>>> 740f8e9 (fix: correct product class mismatch to enable proper load more pagination)
                 .ToListAsync();
 
             return PartialView("_ProductPartial", products);
         }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 740f8e9 (fix: correct product class mismatch to enable proper load more pagination)
     }
 }
